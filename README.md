@@ -3,7 +3,7 @@
 
 ## About
 Statistics and Data Science Major at UCSB \
-Also minoring in Language and Speech Technologies\
+Also minoring in Language and Speech Technologies
 
 <!--
 **tylerhoong-rgb/tylerhoong-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
